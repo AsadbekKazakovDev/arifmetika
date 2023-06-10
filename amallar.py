@@ -10,6 +10,7 @@ floor_division = a//b
 #mul
 multiplication = a*b
 
+darajasi = a**b
 
 #natijani chop etish
 print(addition) 
@@ -17,3 +18,4 @@ print(subtraction)
 print(division)
 print(floor_division)
 print(multiplication)
+print(darajasi)
